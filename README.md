@@ -12,4 +12,4 @@ It provides personalized suggestions based on user preferences.
 - HTML, CSS, JavaScript (or whatever you used)
 
 ## Report
-[View Report](./cookbook.pdf)
+[View Project Report](./cookbook_report.pdf)
