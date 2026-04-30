@@ -12,4 +12,4 @@ It provides personalized suggestions based on user preferences.
 - HTML, CSS, JavaScript (or whatever you used)
 
 ## Report
-[View Project Report](./cookbook_report.pdf)
+[CookBook_Report.docx](https://github.com/user-attachments/files/27255806/CookBook_Report.docx)
